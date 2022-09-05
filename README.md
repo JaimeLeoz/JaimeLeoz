@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaimeLeoz
-I’m Changing career paths from 8 years of international SEO experience to be ready and expand my technical skills
-for the future challenges in the data analytics world. 
+I’m changing career paths from 8 years of international SEO experience to be ready and expand my technical skills
+for the future challenges in the data analytics world.  https://www.linkedin.com/in/jleozmc/
 
 
 <!---
