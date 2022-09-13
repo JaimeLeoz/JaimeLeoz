@@ -6,7 +6,7 @@ I have been living and working around Europe and U.S.A (as exchange student). I'
 
 I have been working 9 years specialized in SEO (search engine optimization).
 
-** Now I'm finishing a full-time Bootcamp in Data Analysis at IronHack **
+*Now I'm finishing a full-time Bootcamp in Data Analysis at IronHack*
 
 # Why do I want to change my career? 
 
@@ -127,14 +127,6 @@ A lot of processes that get improved over time.
         CEO's
         Legal
         Other Marketing channels
-
-
-
-
-
-
-
-
 
 
 
