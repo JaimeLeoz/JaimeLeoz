@@ -8,7 +8,7 @@ I have been working 9 years specialized in SEO (search engine optimization).
 
 *Now I'm finishing a full-time Bootcamp in Data Analytics at Iron Hack*
 
-# Why do I want to change my career? 
+# I'm changing career!
 
 I have been always a technology enthusiast, and I been wondering for too long about programming code like python or JavaScript.
 In my previous jobs I been working quite closely to developers and product owners and since my job required optimizing webs, was important
