@@ -1,4 +1,4 @@
-- 👋 Hi,
+👋 Hi,
 
 My name is Jaime Leoz, I'm from Spain, Mallorca. Now a days I live in Madrid.
 
@@ -6,7 +6,7 @@ I have been living and working around Europe and U.S.A (as exchange student). I'
 
 I have been working 9 years specialized in SEO (search engine optimization).
 
-*Now I'm finishing a full-time Bootcamp in Data Analysis at IronHack*
+*Now I'm finishing a full-time Bootcamp in Data Analytics at Iron Hack*
 
 # Why do I want to change my career? 
 
@@ -21,7 +21,7 @@ I been doing all the steps of a data scientist all along! without knowing, of co
 This is an example of the processes I did to deal with excel and my data provided by the many tools:
  
  > First digging around the tools, you can play online most of the times, but when you need to connect things that means manual work, exporting and excel.
- > Put all different files, from different tools together in an excel and review which columns to keep and reviewing if the data that I'm keeping is consistent.
+ > Put all different files, from different tools together in an excel and review which columns to keep and reviewing if the data that I'm keeping is   consistent.
  > In SEO data is always very variable, unlimited depending on the needs, and not always comes in the right format.
  > After deciding and a bit of cleaning requires joining tables to provide a bigger picture
  > Start the analysis
