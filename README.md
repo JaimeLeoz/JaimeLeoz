@@ -2,33 +2,36 @@
 
 My name is Jaime Leoz, I'm from Spain, Mallorca. Now a days I live in Madrid.
 
-I have been living and working around Europe and U.S.A (as exchange student). I'm always thrilled to work in international environments and in English.
+I have been living/working around Europe and U.S.A (as exchange student). I'm always thrilled to work in international environments and in English.
 
 I have been working 9 years specialized in SEO (search engine optimization).
 
-*Now I'm finishing a full-time Bootcamp in Data Analytics at Iron Hack*
+### Now I'm finishing a full-time Bootcamp in Data Analytics at Iron Hack - 9 weeks - learning Python (pandas, numpy, machine learning..) , SQL, MongoDB, Tableau, PowerBI. Ofcourse focused on finding data, cleaning , organizing, EAD/EDT, Visualizations and reporting.
 
 # I'm changing career!
 
 I have been always a technology enthusiast, and I been wondering for too long about programming code like python or JavaScript.
-In my previous jobs I been working quite closely to developers and product owners and since my job required optimizing webs, was important
-to keep a close eye on how a backend, frontend, servers, databases and how all the data was treated for feeding it under the Google Guidelines and reporting.
+In my previous jobs I been working quite closely to developers & product owners. Since my job required optimizing webs, was important
+to understand how things worked & performed like backend, frontend, servers, databases. As well I was constantly playing with data provided from different tools like Google Analytics, Adobe Analytics, Google Search Console, Screaming Frog and many more in order to make priorotize decisions and reporting.
 
-In SEO there is a very data driven job, anything we do needs to be analyzed, cleaned and reviewed, we have lots of tools that provide us differently data. So has required constant manual work to put them together.
+By the way, I was working in SEO ( Search Engine Optimization). Is surprisingly a very data driven job, anything we do as SEO's needs to be analyzed, cleaned and reviewed, we have lots of tools that provide us differently data. Although requires constant manual work to put them together.
 
 I been doing all the steps of a data scientist all along! without knowing, of course, using excel...
 
-This is an example of the processes I did to deal with excel and my data provided by the many tools:
- 
- > First digging around the tools, you can play online most of the times, but when you need to connect things that means manual work, exporting and excel.
- > Put all different files, from different tools together in an excel and review which columns to keep and reviewing if the data that I'm keeping is   consistent.
- > In SEO data is always very variable, unlimited depending on the needs, and not always comes in the right format.
- > After deciding and a bit of cleaning requires joining tables to provide a bigger picture
- > Start the analysis
- > Grab the important data
- > List actions
- > Prioritize actions based on a balance between fast to action & great impact
- > Use the data for creating Dashboards, presentations and meetings.
+
+## How did I worked with Data?
+
+This is how I worked with data (back then in excel):
+
+1.First digging around the tools, you can play online most of the times, but when you need to connect things that means manual work, exporting and excel.
+2.Put all different files, from different tools together in an excel and review which columns to keep and reviewing if the data that I'm keeping is    	consistent.
+*2.1 In SEO data is always very variable, unlimited depending on the needs, and not always comes in the right format.
+4. After deciding and a bit of cleaning is required joining tables to provide a bigger picture
+5. Start the analysis
+6. Grab the important data
+7. List actions
+8. Prioritize actions based on a balance between fast to action & great impact ( time of production/conversions)
+9. Use the data for creating Dashboards, presentations and meetings.
 
 
 ## The Biggest challenge and why I love Puzzles.
