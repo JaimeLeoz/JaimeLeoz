@@ -23,9 +23,9 @@ I been doing all the steps of a data scientist all along! without knowing, of co
 
 This is how I worked with data (back then in excel):
 
-1.First digging around the tools, you can play online most of the times, but when you need to connect things that means manual work, exporting and excel.
-2.Put all different files, from different tools together in an excel and review which columns to keep and reviewing if the data that I'm keeping is    	consistent.
-*2.1 In SEO data is always very variable, unlimited depending on the needs, and not always comes in the right format.
+1. First digging around the tools, you can play online most of the times, but when you need to connect things that means manual work, exporting and excel.
+2. Put all different files, from different tools together in an excel and review which columns to keep and reviewing if the data that I'm keeping is    	consistent.
+..*2.1 In SEO data is always very variable, unlimited depending on the needs, and not always comes in the right format.
 4. After deciding and a bit of cleaning is required joining tables to provide a bigger picture
 5. Start the analysis
 6. Grab the important data
