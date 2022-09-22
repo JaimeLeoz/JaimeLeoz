@@ -25,35 +25,29 @@ This is how I worked with data (back then in excel):
 
 1. First digging around the tools, you can play online most of the times, but when you need to connect things that means manual work, exporting and excel.
 2. Put all different files, from different tools together in an excel and review which columns to keep and reviewing if the data that I'm keeping is    	consistent.
-..*2.1 In SEO data is always very variable, unlimited depending on the needs, and not always comes in the right format.
-4. After deciding and a bit of cleaning is required joining tables to provide a bigger picture
-5. Start the analysis
-6. Grab the important data
-7. List actions
-8. Prioritize actions based on a balance between fast to action & great impact ( time of production/conversions)
-9. Use the data for creating Dashboards, presentations and meetings.
+3. After deciding and a bit of cleaning is required joining tables to provide a bigger picture
+4. Start the analysis
+5. Grab the important data
+6. List actions
+7. Prioritize actions based on a balance between fast to action & great impact ( time of production/conversions)
+8. Use the data for creating Dashboards, presentations and meetings.
 
 
-## The Biggest challenge and why I love Puzzles.
+## The Biggest challenges I had & why I love Puzzles.
 
-My biggest challenges always have been regarding Migrating webs. This is as complex as it gets. Of course a small website is simpler, but requires patience and eye for detail.
+My biggest challenges always have been regarding Migrating webs.
 
-When you deal with big websites, different countries, languages, thousands of URLs, mapping the URLs to new ones, is when it gets challenging.
+When you deal with big websites filled with thousands of urls based on different countries, languages, makes  mapping the URLs to new ones quite challenging. There is a lot of information that is very delicate.
 
-> As a SEO I looked for accomplishing the best results that affect less as possible the organic rankings of a web. Which a lot of webs depend on, since they have a lot of conversions through this marketing channel.
-
-> A bad migration can literally drown your web and would be a pity to lose the effort made during years in few clicks.
+> A bad migration will affect a website organic positions and conversions.
 	
 
 Migrations require scrapping the web, saving the information, organizing it, add data from other tools to complete it, keeping broad communication
-with a lot of teams, from Brand, UIX, Developers, Stakeholders, Content Managers, sometimes Freelancers and anyone that can help.
+with a lot of teams ( from Brand, UIX, Developers, Stakeholders, Content Managers, sometimes Freelancers and anyone that can help) to be able to make the right decisions on how to proceed and how other teams have to proceed when making changes.
 
-Making tough decisions
 
-I loved being part of this processes that could last months which were challenging, required patience, good communication, teaching key aspects, talking with other teammates,
-and most of all the responsibility at my hands, being able to solve the Data puzzles that had to be solved before migrating the web. Very delicate job.
+I loved being part of this processes that could last months, months that are challenging, required patience, good communication, working with other teammates & departments, and most of all the responsibility at my hands, being able to solve the Data puzzles before migrating the web. At the end is a very delicate job that someone has to do!
 
-A lot of processes that get improved over time.
 
 ## What I'm bringing to the table? SOFT SKILLS
 
