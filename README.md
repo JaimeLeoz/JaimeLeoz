@@ -6,7 +6,7 @@ I have been living/working around Europe and U.S.A (as exchange student). I'm al
 
 I have been working 9 years specialized in SEO (search engine optimization).
 
-### Now I'm finishing a full-time Bootcamp in Data Analytics at Iron Hack - 9 weeks - learning Python (pandas, numpy, machine learning..) , SQL, MongoDB, Tableau, PowerBI. Ofcourse focused on finding data, cleaning , organizing, EAD/EDT, Visualizations and reporting.
+### Now I'm finishing a full-time Bootcamp in Data Analytics at Iron Hack - 9 weeks - learning Python (pandas, numpy, machine learning..) , SQL, MongoDB, Tableau, PowerBI. Ofcourse focused on finding data, cleaning , organizing, EAD/EDT, Visualizations and reporting.
 
 # I'm changing career!
 
