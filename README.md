@@ -51,32 +51,32 @@ I loved being part of this processes that could last months, months that are cha
 
 ## What I'm bringing to the table? SOFT SKILLS
 
-> Great team member
-> Great communicator - by email, slack and in person
-> Active listener
-> Patient
-> I try my best to always be in a good mood, coffee helps.
-> Sincere
-> Through Decision Making
-> Adapting to difficult circumstances
-> Like to fix problems, starting from the beginning! no workarounds unless they are necessary. I adapt to circumstances.
-> Very Responsible of my actions and I always work for improvement
-> Fun to have around!
-> Thrive in International Environment
+   Great team member
+   Great communicator - by email, slack and in person
+   Active listener
+   Patient
+   I try my best to always be in a good mood, coffee helps.
+   Sincere
+   Through Decision Making
+   Adapting to difficult circumstances
+   Like to fix problems, starting from the beginning! no workarounds unless they are necessary. I adapt to circumstances.
+   Very Responsible of my actions and I always work for improvement
+   Fun to have around!
+   Thrive in International Environment
 
 ## What I'm bringing to the table? HARD SKILLS
 
-> Great with any tool, I learn fast (I have used too many in SEO)
-> Python ( NumPy, Pandas, loops, functions)
-> SQL and MongoDB
-> Web scraping
-> Analyzing Data
-> Cleaning Data
-> Tableau, Power BI
-> Presentations
-> Excel, Word and PPT savvy
-> Google Analytics
-> I'm a certified scrum master since I like what it means: teamwork, support others and help them do it their way.
+   Great with any tool, I learn fast (I have used too many in SEO)
+   Python ( NumPy, Pandas, loops, functions)
+   SQL and MongoDB
+   Web scraping
+   Analyzing Data
+   Cleaning Data
+   Tableau, Power BI
+   Presentations
+   Excel, Word and PPT savvy
+   Google Analytics
+   I'm a certified scrum master since I like what it means: teamwork, support others and help them do it their way.
 
 ### Reviewing the web status:
 
