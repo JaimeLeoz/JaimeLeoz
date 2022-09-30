@@ -14,7 +14,7 @@ I have been always a technology enthusiast, and I been wondering for too long ab
 In my previous jobs I been working quite closely to developers & product owners. Since my job required optimizing webs, was important
 to understand how things worked & performed like backend, frontend, servers, databases. As well I was constantly playing with data provided from different tools like Google Analytics, Adobe Analytics, Google Search Console, Screaming Frog and many more in order to make priorotize decisions and reporting.
 
-By the way, I was working in SEO ( Search Engine Optimization). Is surprisingly a very data driven job, anything we do as SEO's needs to be analyzed, cleaned and reviewed, we have lots of tools that provide us differently data. Although requires constant manual work to put them together.
+By the way, I was working in SEO ( Search Engine Optimization). Is surprisingly a very data driven job, anything we do as SEO's needs to be analyzed, cleaned and reviewed, we have lots of different data types and tools that provide us differently data whhich requires constant manual work to put them together, since there is very few automatizations possible, either are expensive or quite hard to deploy.
 
 I been doing all the steps of a data scientist all along! without knowing, of course, using excel...
 
@@ -37,12 +37,12 @@ This is how I worked with data (back then in excel):
 
 My biggest challenges always have been regarding Migrating webs.
 
-When you deal with big websites filled with thousands of urls based on different countries, languages, makes  mapping the URLs to new ones quite challenging. There is a lot of information that is very delicate.
+When you deal with big websites filled with thousands of urls based on different countries, languages, makes  mapping the URLs to new ones quite challenging. There is a lot of delicate information that requires a lot of attention.
 
 > A bad migration will affect a website organic positions and conversions.
 	
 
-Migrations require scrapping the web, saving the information, organizing it, add data from other tools to complete it, keeping broad communication
+Migrations require scrapping the web, saving the information, organizing it, adding data from other tools to complete it, keeping broad communication
 with a lot of teams ( from Brand, UIX, Developers, Stakeholders, Content Managers, sometimes Freelancers and anyone that can help) to be able to make the right decisions on how to proceed and how other teams have to proceed when making changes.
 
 
