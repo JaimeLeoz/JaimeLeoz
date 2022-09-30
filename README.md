@@ -63,6 +63,22 @@ I loved being part of this processes that could last months, months that are cha
     Very Responsible of my actions and I always work for improvement
     Fun to have around!
     Thrive in International Environment
+    
+    
+### Communication Skills
+
+    My jobs required constant and direct communication and to adapt it to the different stakeholders
+    Required to communicate with different departments and adapt to each of one the content and specifics of the info to:
+
+        Product Owners
+        Developers
+        UIX
+        PR
+        Brand
+        CEO's
+        Legal
+        Other Marketing channels
+
 
 ## What I'm bringing to the table? HARD SKILLS
 
@@ -71,14 +87,25 @@ I loved being part of this processes that could last months, months that are cha
     SQL and MongoDB
     Web scraping
     Analyzing Data
-    Cleaning Data
+    Cleaning Data: EAD/ETL
     Tableau, Power BI
     Presentations
     Excel, Word and PPT savvy
-    Google Analytics
+    Google Analytics/ Adobe Analytics
     I'm a certified scrum master since I like what it means: teamwork, support others and help them do it their way.
 
-### Reviewing the web status:
+
+### Reporting
+
+    Creating dashboards on Google Data Studio
+    Creating databases on excel
+    Creating presentations/Reports on PPT for different porpoises:
+        Reporting to executive Stakeholders (Heads of Marketing and CEO's)
+        Reporting to Managers
+        Reporting to different teams
+	
+
+### Another example of work processes : Reviewing the web status:
 
     Analyzing data with an internal perspective:
         changes that the SEO team made
@@ -102,28 +129,7 @@ I loved being part of this processes that could last months, months that are cha
     Make action plans if necessary
         Prioritize actions related to the new findings.
 
-### Reporting
 
-    Creating dashboards on Google Data Studio
-    Creating databases on excel
-    Creating presentations on PPT for different porpoises:
-        Reporting to executive Stakeholders (Heads of Marketing and CEO's)
-        Reporting to Managers
-        Reporting to different teams
-
-### Communication Skills
-
-    My jobs required constant and direct communication and to adapt it to the different stakeholders
-    Required to communicate with different departments and adapt to each of one the content and specifics of the info to:
-
-        Product Owners
-        Developers
-        UIX
-        PR
-        Brand
-        CEO's
-        Legal
-        Other Marketing channels
 
 
 
