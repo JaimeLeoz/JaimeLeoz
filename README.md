@@ -23,14 +23,14 @@ I been doing all the steps of a data scientist all along! without knowing, of co
 
 This is how I worked with data (back then in excel):
 
-    First digging around the tools, you can play online most of the times, but when you need to connect things that means manual work, exporting 	           and excel.
-    Put all different files, from different tools together in an excel and review which columns to keep and reviewing if the data that I'm keeping                 is consistent.
-    After deciding and a bit of cleaning is required joining tables to provide a bigger picture
-    Start the analysis
-    Grab the important data
-    List actions
-    Prioritize actions based on a balance between fast to action & great impact ( time of production/conversions)
-    Use the data for creating Dashboards, presentations and meetings.
+    1, Digging the different tools to find new data and seasonality ,for example, then exporting the data in a cvs excel file.
+    2, Joining different files, from different tools together in an excel and review which columns to keep and reviewing if the data is consistent.
+    3, After deciding and a bit of cleaning we look for the bigger picture
+    4, Start the analysis
+    5, Grab the important data
+    6, List actions
+    7, Prioritize actions based on a balance between fast to action & great impact ( time of production/conversions)
+    8, Use the data for creating Dashboards, presentations and meetings.
 
 
 ## The Biggest challenges I had & why I love Puzzles.
